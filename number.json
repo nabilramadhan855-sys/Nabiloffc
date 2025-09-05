@@ -1,6 +1,9 @@
 [
-  
-  "6281584908942@s.whatsapp.net",
-  "6285821675675@s.whatsapp.net"
-
+  {
+    "Owner": "6281584908942",
+    "NomorBot": "6285821675675",
+    "Access": true,
+    "Email": "nenen@gmail.com",
+    "Key": "Nabilstr"
+  }, 
 ]
